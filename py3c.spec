@@ -2,7 +2,7 @@ Summary:	Library for helping port Python 2.x extensions to Python 3.x
 Group:		System/Libraries
 Name:		py3c
 Version:	1.4
-Release:	2
+Release:	3
 Url:		https://pypi.org/project/py3c/
 # The official release package seems to be missing the headers
 #Source0:	https://pypi.python.org/packages/source/p/%{name}/%{name}-%{version}.tar.gz
